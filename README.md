@@ -1,2 +1,2 @@
 # Quaoto
-Car website.
+Web site for a Car company named Quaoto.
